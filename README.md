@@ -6,7 +6,7 @@ O projeto busca trazer uma nova experiência ao Vale, incorporando elementos dos
 
 ## 🌐 Acesse nossa Wiki
 
-🔗 **Site oficial:** [Clique aqui para acessar a Wiki]([COLOQUE_AQUI_O_LINK_DO_SITE](https://gabriellig-maker.github.io/Stardew-valley-wiki-mod/))
+🔗 **Site oficial:** [Clique aqui para acessar a Wiki](https://gabriellig-maker.github.io/Stardew-valley-wiki-mod/)
 
 ## 📖 Sobre o projeto
 
